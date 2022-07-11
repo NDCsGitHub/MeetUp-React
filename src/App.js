@@ -1,9 +1,14 @@
 
 function App() {
   return (
-    <div >
-      hello
+    <div>
+      <h1> My Todos </h1>
+      <div>
+        <h2> TITLE </h2>
+        <button >Delete</button>
+      </div>
     </div>
+
   );
 }
 
