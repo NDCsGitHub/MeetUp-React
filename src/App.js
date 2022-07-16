@@ -7,7 +7,6 @@ function App() {
     <div>
       <h1> My Todos </h1>
       <Todo text='hello' />
-      1:30
     </div>
 
   );
