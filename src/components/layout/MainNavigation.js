@@ -23,7 +23,7 @@ export default function MainNavigation() {
                 </ul>
             </nav>
 
-            1:49
+
         </header>
 
 
