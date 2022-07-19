@@ -24,11 +24,7 @@ export default function MainNavigation() {
             </nav>
 
 
-
-
-
         </header>
-
 
     )
 }
