@@ -20,6 +20,7 @@ export default function MainNavigation() {
                         <Link to='/favorites'>Favorites</Link>
                     </li>
 
+
                 </ul>
             </nav>
 
